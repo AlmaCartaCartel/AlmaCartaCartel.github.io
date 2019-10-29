@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14e1049c.chunk.css",
+    "main.js": "/static/js/main.1484800c.chunk.js",
+    "main.js.map": "/static/js/main.1484800c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9450b992.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9450b992.js.map",
+    "static/js/2.82c1956b.chunk.js": "/static/js/2.82c1956b.chunk.js",
+    "static/js/2.82c1956b.chunk.js.map": "/static/js/2.82c1956b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e063e5f7afb1287b6bf37c2d416dea7c.js": "/precache-manifest.e063e5f7afb1287b6bf37c2d416dea7c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.14e1049c.chunk.css.map": "/static/css/main.14e1049c.chunk.css.map",
+    "static/media/deth-star.png": "/static/media/deth-star.81c98480.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9450b992.js",
+    "static/js/2.82c1956b.chunk.js",
+    "static/css/main.14e1049c.chunk.css",
+    "static/js/main.1484800c.chunk.js"
+  ]
+}
